@@ -18,3 +18,6 @@ python cli.py order BTCUSDT SELL LIMIT 0.01 --price 60000
 
 - Place a STOP_LIMIT order (bonus):
 python cli.py order BTCUSDT SELL STOP_LIMIT 0.01 --price 58000
+
+- Whenever you run a command like
+python cli.py order BTCUSDT BUY MARKET 0.002
