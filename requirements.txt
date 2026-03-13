@@ -1,0 +1,12 @@
+python-binance
+typer
+loguru
+"Notes
+-----
+- python-binance → Binance API wrapper for Python.
+- typer → CLI framework for subcommands (market, limit, etc.).
+- loguru → structured logging.
+- pytest → modern testing framework (optional but recommended).
+- Even though unittest is built into Python, adding pytest makes it easier to run and manage tests.
+- You can still run python -m unittest discover tests, but reviewers will appreciate seeing pytest included.
+"
